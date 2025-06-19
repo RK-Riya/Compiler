@@ -1,19 +1,18 @@
 # ONLINE COMPILER:
-### Platform to write and execute code!!!
+*** Platform to write and execute code!!!***
 
 
 ## Demo Image
-![image](https://github.com/user-attachments/assets/89b65296-178c-4b28-a527-c40d2917443d)
-
+![image](https://github.com/user-attachments/assets/647dea8f-77bf-4718-85b6-71d71cff92f1)
 
 
 ## Giving Input:
-![image](https://github.com/user-attachments/assets/6b42bc61-e9f9-4be6-b287-cf01ea14f10e)
-
+![image](https://github.com/user-attachments/assets/27889efd-238e-4f3b-a2b1-20a2c98a3d03)
 
 
 ## Got Output:
-![image](https://github.com/user-attachments/assets/3bf09dd5-6c29-4fda-9f5b-aacbf4d5a1ad)
+![image](https://github.com/user-attachments/assets/71395bf0-6a28-4d83-a561-06304a1b93f6)
+
 
 
 
