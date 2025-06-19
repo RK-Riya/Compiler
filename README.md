@@ -3,16 +3,18 @@
 
 
 ## Demo Image
-![Screenshot (192)](https://github.com/user-attachments/assets/af7f70d7-72e8-4aac-9293-63b413cb9694)
+![image](https://github.com/user-attachments/assets/89b65296-178c-4b28-a527-c40d2917443d)
+
 
 
 ## Giving Input:
-![Screenshot (193)](https://github.com/user-attachments/assets/51a05d01-f5bb-4c10-ab2b-3b0707c5977d)
+![image](https://github.com/user-attachments/assets/6b42bc61-e9f9-4be6-b287-cf01ea14f10e)
 
 
 
 ## Got Output:
-![Screenshot (197)](https://github.com/user-attachments/assets/96f945d6-8dbc-48ec-9101-cb622bd9fb6f)
+![image](https://github.com/user-attachments/assets/3bf09dd5-6c29-4fda-9f5b-aacbf4d5a1ad)
+
 
 
 
