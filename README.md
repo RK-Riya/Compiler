@@ -1,4 +1,5 @@
-# ONLINE COMPILER:
+<p align="center"><u><span style="color:blue;">ONLINE COMPILER</span></u></p>
+
 Platform to write and execute code!!! 
 
 
