@@ -1,4 +1,4 @@
-<p align="center"><u><style="color:blue;"><h1>ONLINE COMPILER<h1></u></p>
+<h1 align="center" style="color:blue;"><u>ONLINE COMPILER</u></h1>
 
 Platform to write and execute code!!! 
 
