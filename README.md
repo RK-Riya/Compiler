@@ -1,6 +1,6 @@
 <h1 align="center" style="color:blue;"><u>ONLINE COMPILER</u></h1>
 
-Platform to write and execute code!!! 
+<align="center">Platform to write and execute code!!! 
 
 
 ## Demo Image
