@@ -1,5 +1,5 @@
 # ONLINE COMPILER:
-* Platform to write and execute code!!! *
+Platform to write and execute code!!! 
 
 
 ## Demo Image
