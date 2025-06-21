@@ -13,7 +13,7 @@
 
 
 
-## Got Output:
+## Obtaining Output:
 ![image](https://github.com/user-attachments/assets/6f12fbf8-a2fc-49b5-aecd-8a66fa7b40dd)
 
 
